@@ -98,8 +98,8 @@ ________________________________________________________________________________
 ```
 由於一開始用20000筆DATA下去訓練的時候發現不夠，所以後來用原本的資料擴充到180000筆data
 
-[train history](generator_accuracy23.png)
-[train loss](generator_loss23.png)
+![train history](generator_accuracy23.png)
+![train loss](generator_loss23.png)
 
 dataset/loaddata.py負責載入資料跟預處裡
 keras_model.py負責訓練
