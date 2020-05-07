@@ -101,6 +101,6 @@ ________________________________________________________________________________
 ![train history](generator_accuracy23.png)
 ![train loss](generator_loss23.png)
 
-dataset/loaddata.py負責載入資料跟預處裡
-keras_model.py負責訓練
-test_model.py負責測試準確度
+dataset/loaddata.py負責載入資料跟預處裡<br>
+keras_model.py負責訓練<br>
+test_model.py負責測試準確度，最後出來的準確度是0.936<br>
